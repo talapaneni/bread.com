@@ -5,3 +5,9 @@ bug fixed, version 1.2  is ready for release
 
 coding on branch r2_contacts branch completed
 
+index (r_index)
+
+bug fixed, version 1.2  is ready for release
+
+Coding finished for r2_index brach
+
