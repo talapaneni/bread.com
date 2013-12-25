@@ -2,3 +2,4 @@ initial commit
 Coding finished for version 1.1
 
 bug fixed, version 1.2  is ready for release
+
